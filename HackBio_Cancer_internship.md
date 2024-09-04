@@ -9,7 +9,7 @@ The pathways followed involves transcription and translation.
 
 ### <a id="_Toc165448399"></a>
 
-During thus stage a complementary strand is formed which is a called a gene transcript. After transcription post transcription modifications occur which include; Maturation off newly synthesized primary RNA, splicing where the non-coding gene regions (Introns) are removed, polyadenylation the product formed is ready for translation
+During this stage a complementary strand is formed which is a called a gene transcript. After transcription, post transcription modifications occur which include; Maturation off newly synthesized primary RNA, splicing where the non-coding gene regions (Introns) are removed, polyadenylation the product formed is ready for translation
 
 
 ### <a id="_Toc165448400"></a>
