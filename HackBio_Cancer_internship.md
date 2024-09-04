@@ -67,8 +67,7 @@ The expression level can be measured or determined through various ways which in
 | 15759       | SOCS3          | -2.24144  | 7.778082   | 12.62167 | 0.000381   | 0.048197 | down-regulated |
 | 14110       | LMNB2          | 1.101208  | 5.806101   | 12.58381 | 0.000389   | 0.048197 | up-regulated   |
 | 53102       | AATF           | 1.169931  | 6.221948   | 12.56764 | 0.000392   | 0.048197 | up-regulated   |
-
- 
+The table above shows the DEGs with expression levels at a pvalue of <0.5 (**source: Undegraduate research by Henry momanyi**
 
 **REFERENCES**
 
