@@ -2,6 +2,7 @@
 
 **Author(@slack) : Henry Momanyi(@Henry Momanyi)**
 GitHub Repo:https://github.com/Henry-momanyi/HackBio_Cancer_Internship/blob/main/HackBio_Cancer_internship.md
+
 Gene expression entails the path followed in the transfer of unfunctional genes into a functional product. These functional products may include: RNA, DNA and proteins.(Assefa et al., 2018)&#x20;
 
 The pathways followed involves transcription and translation.
