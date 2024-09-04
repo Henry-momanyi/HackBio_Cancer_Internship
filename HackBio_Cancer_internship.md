@@ -32,42 +32,8 @@ Occurs mainly in three stages which include:
 
 This in turn involves the reduced receptor production due to reduced cell activity and signal transduction due to chronic exposure to agonists.
 
-The expression level can be measured or determined through various ways which include comparison of the P values with normal expression level and determining the Fold change and the false discovery rate as shown in the figures below involving differential gene expression analysis of Breast cancer tumors
-
-|             |                |           |            |          |            |          |                |
-| ----------- | -------------- | --------- | ---------- | -------- | ---------- | -------- | -------------- |
-| **Gene ID** | **Gene Names** | **logFC** | **logCPM** | **LR**   | **PValue** | **FDR**  | **Regulation** |
-| 5326        | ZWINT          | 2.303997  | 6.278605   | 22.50373 | 2.10E-06   | 0.003418 | up-regulated   |
-| 53326       | RN7SL1         | -8.7267   | 15.69517   | 22.24055 | 2.41E-06   | 0.003418 | down-regulated |
-| 17745       | TPM2           | -4.81344  | 10.46266   | 21.96012 | 2.78E-06   | 0.003418 | down-regulated |
-| 3026        | ASF1B          | 2.481494  | 6.120787   | 17.82206 | 2.43E-05   | 0.020057 | up-regulated   |
-| 11793       | SGPL1          | 1.118616  | 6.271276   | 17.50394 | 2.87E-05   | 0.020057 | up-regulated   |
-| 6491        | TOP2A          | 2.721793  | 6.932327   | 17.11741 | 3.51E-05   | 0.020057 | up-regulated   |
-| 43875       | CHURC1         | -1.27656  | 5.928149   | 16.73628 | 4.30E-05   | 0.020057 | down-regulated |
-| 39524       | MALAT1         | -3.39604  | 8.948581   | 16.4444  | 5.01E-05   | 0.020057 | down-regulated |
-| 12223       | TK1            | 2.525432  | 6.988093   | 16.3255  | 5.33E-05   | 0.020057 | up-regulated   |
-| 256         | NCAPD2         | 0.954388  | 5.898784   | 16.28674 | 5.44E-05   | 0.020057 | down-regulated |
-| 17647       | MB             | -6.11318  | 11.43593   | 15.91461 | 6.63E-05   | 0.022193 | down-regulated |
-| 41106       | IGHGP          | 2.815653  | 6.926928   | 15.58106 | 7.90E-05   | 0.024266 | up-regulated   |
-| 6734        | SLC39A11       | 1.652352  | 6.206932   | 15.27998 | 9.27E-05   | 0.024984 | up-regulated   |
-| 21464       | IGHG1          | 3.051073  | 9.828978   | 15.2347  | 9.49E-05   | 0.024984 | up-regulated   |
-| 5577        | CDKN1A         | -1.52128  | 7.198604   | 14.96348 | 0.00011    | 0.026921 | down-regulated |
-| 15278       | EPHB3          | 2.639202  | 6.806012   | 14.70903 | 0.000125   | 0.028883 | up-regulated   |
-| 10917       | PDLIM5         | -2.01266  | 6.846605   | 14.40109 | 0.000148   | 0.032011 | down-regulated |
-| 15377       | PYCR1          | 1.814546  | 6.469804   | 14.22779 | 0.000162   | 0.033148 | up-regulated   |
-| 3776        | HIPK3          | -1.54202  | 7.035275   | 13.72848 | 0.000211   | 0.040956 | down-regulated |
-| 25908       | SBDSP1         | -0.75146  | 5.956984   | 13.44375 | 0.000246   | 0.045031 | down-regulated |
-| 11242       | HMGB2          | 1.660725  | 7.922294   | 13.36261 | 0.000257   | 0.045031 | up-regulated   |
-| 37094       | NEAT1          | -1.27475  | 6.232197   | 13.2607  | 0.000271   | 0.045385 | down-regulated |
-| 4744        | STMN1          | 1.586891  | 6.822723   | 12.95284 | 0.000319   | 0.048197 | up-regulated   |
-| 15099       | SIAH2          | 1.379181  | 7.037987   | 12.85864 | 0.000336   | 0.048197 | up-regulated   |
-| 3174        | LSR            | 1.348498  | 7.224164   | 12.7824  | 0.00035    | 0.048197 | up-regulated   |
-| 514         | RNF19A         | -1.79121  | 6.817897   | 12.703   | 0.000365   | 0.048197 | down-regulated |
-| 17065       | CD55           | -1.34224  | 6.706398   | 12.6317  | 0.000379   | 0.048197 | down-regulated |
-| 15759       | SOCS3          | -2.24144  | 7.778082   | 12.62167 | 0.000381   | 0.048197 | down-regulated |
-| 14110       | LMNB2          | 1.101208  | 5.806101   | 12.58381 | 0.000389   | 0.048197 | up-regulated   |
-| 53102       | AATF           | 1.169931  | 6.221948   | 12.56764 | 0.000392   | 0.048197 | up-regulated   |
-The table above shows the DEGs with expression levels at a pvalue of <0.5 (**source: Undegraduate research by Henry momanyi**
+The expression level can be measured or determined through various ways which include comparison of the P values with normal expression level and determining the Fold change and the false discovery rate unto which the data differs from the normal data expression profiles.
+Using the Enrichment profiles and analysis tools, i.e, Gene Ontology, KEGG pathway,Enrichment Atlas, the data can be mornitored and analysed which can provide key steps in in analysis,research and in determining the various associated pathways in development,proliferation and spread of cancer.
 
 **REFERENCES**
 
