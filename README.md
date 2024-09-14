@@ -23,7 +23,7 @@ Figure 2. Task 1 output 2 - heatmap with sequential colour palette.
 
 Colour selection is important for visualising and interpreting datasets using plots such as heatmaps as it enhances contrast using colour palettes to differentiate between different values in the plot and to emphasize on significant differences in the data.4 Sequential colour palette does not consist of a neutral central value, while a diverging colour palette consists of two different colours with a neutral central value, which is useful for observing deviations from the midpoint. The plots can also be easier to interpret by people with colour blindness when specific colour palettes are used.5 
 
-Task 2 - With the same heatmap, generate a variant of your heatmap where you
+**Task 2** - With the same heatmap, generate a variant of your heatmap where you
 a.	Cluster your genes (rows) alone
 b.	Cluster your samples (columns) alone
 c.	Cluster both genes and sample together.
@@ -43,7 +43,7 @@ Figure 5. Task 2 output 3 - clustering both genes and sample together.
 Clustering rows (genes) and columns (samples) in the heatmap is important for data analysis as it helps to identify patterns or relationships within the dataset, providing a better visual representation of the genes and samples with similar characteristics.6
 
  
-Tasks 3 & 4 - Subset genes that are significantly upregulated and significantly downregulated. (Setup your own cut-offs for the fold change and p-values).
+**Tasks 3 & 4** - Subset genes that are significantly upregulated and significantly downregulated. (Setup your own cut-offs for the fold change and p-values).
  
 Figure 6. Tasks 3 & 4 output 1 – volcano plot of glioblastoma data.
 ![image](https://github.com/user-attachments/assets/112f9c17-66f8-4771-aa20-39fa2ad775dc)
@@ -57,7 +57,7 @@ Figure 7. Tasks 3 & 4 output 2 – volcano plot of glioblastoma data.
  
  
 
-Task 5 - Perform functional enrichment analysis with either ShinyGO, GOrilla or PANTHER.
+**Task 5** - Perform functional enrichment analysis with either ShinyGO, GOrilla or PANTHER.
 -	The gene IDs were submitted to ShinyGO
 -	The p-value cutoff was set at 0.05.
 
@@ -65,14 +65,14 @@ Task 5 - Perform functional enrichment analysis with either ShinyGO, GOrilla or 
 Figure 8. Task 5 output – functional enrichment analysis.
 ![image](https://github.com/user-attachments/assets/e5548657-2aab-4c34-aa8c-118967f2f0e7)
 
-Task 6 - Using the top 5 pathways, create a straightforward visualization (such as a lollipop plot, dot plot, line plot or bubble plot) that displays the number of genes associated with each pathway. The plot should also reflect the significance of each pathway by scaling the points according to the negative log10 of the p-value.
+**Task 6** - Using the top 5 pathways, create a straightforward visualization (such as a lollipop plot, dot plot, line plot or bubble plot) that displays the number of genes associated with each pathway. The plot should also reflect the significance of each pathway by scaling the points according to the negative log10 of the p-value.
 
  
 Figure 9. Task 6 output - top five enriched KEGG pathways.
 ![image](https://github.com/user-attachments/assets/7f742aec-ea6b-47ee-80cf-0162fff1bc57)
 
 
-Task 7 - Describe the top 3 enriched pathways according to biological process.
+**Task 7** - Describe the top 3 enriched pathways according to biological process.
 
  
 Figure 10. Task 7 output - enriched pathways (according to biological process).
@@ -85,7 +85,7 @@ Figure 10. Task 7 output - enriched pathways (according to biological process).
 3)	Lymphocyte chemotaxis – It is the process by which cells cross barriers such as the vascular endothelium and migrates within tissues, which is typically stimulated by chemokines via G-protein coupled receptors.11 Production of chemokines by glioblastoma cells can progress tumour formation by suppressing the body's immune response.12
 
 
-References:
+**References:**
 1.	Wirsching, H.-G., Galanis, E. and Weller, M. (2016) “Glioblastoma,” in Handbook of Clinical Neurology. Elsevier, pp. 381–397. Available at: https://www.sciencedirect.com/science/article/abs/pii/B9780128029978000232
 2.	Han, S. et al. (2020) “IDH mutation in glioma: molecular mechanisms and potential therapeutic targets,” British journal of cancer, 122(11), pp. 1580–1589. DOI: 10.1038/s41416-020-0814-x.
 3.	Davis, M. (2016) “Glioblastoma: Overview of disease and treatment,” Clinical journal of oncology nursing, 20(5), pp. S2–S8. DOI: 10.1188/16.cjon.s1.2-8.
