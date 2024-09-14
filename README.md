@@ -1,14 +1,17 @@
-GENE EXPRESSION ANALYSIS, VISUALISATION AND DOWNSTREAM FUNCTIONAL ENRICHMENT ANALYSIS OF GLIOBLASTOMA DATASET
-Team: Biomarker Hunters and Data Scientists
-Authors (@slack): Oluwatobi Ogundepo (@Oluwatobi), Abdulrahman Walid Elbagoury (@Willeau), Olabode Kaosara Omowunmi (@TheResearchNerd), Awoleke Ifeoluwa (@Ifeolu01), Henry Momanyi (@Henry), Benedict Orile Ajunku (@orile), Olajumoke Oladosu (@Jumblosu), Mary Dhevanayagam (@Shanu)
+**GENE EXPRESSION ANALYSIS, VISUALISATION AND DOWNSTREAM FUNCTIONAL ENRICHMENT ANALYSIS OF GLIOBLASTOMA DATASET**
+**Team: Biomarker Hunters and Data Scientists**
+**Authors (@slack): Oluwatobi Ogundepo (@Oluwatobi), Abdulrahman Walid Elbagoury (@Willeau), Olabode Kaosara Omowunmi (@TheResearchNerd), Awoleke Ifeoluwa (@Ifeolu01), Henry Momanyi (@Henry), Benedict Orile Ajunku (@orile), Olajumoke Oladosu (@Jumblosu), Mary Dhevanayagam (@Shanu)**
+
 Link to the code: hackbio-cancer-internship/stage-two/code.R at main · marydhevanayagam/hackbio-cancer-internship (github.com)
+
 Link to the dataset: https://raw.githubusercontent.com/HackBio-Internship/public_datasets/main/Cancer2024/glioblastoma.csv
 
-GLIOBLASTOMA
+**GLIOBLASTOMA**
 Glioblastoma is the most common and aggressive primary brain tumour in adults, characterised by necrosis and endothelial proliferation.1 It may arise from specific point mutations of the genes encoding IDH (isocitrate dehydrogenase).2 Typical molecular changes in glioblastoma include mutations in genes regulating receptor tyrosine kinase (RTK)/ RAS/phosphoinositide 3-kinase (PI3K), p53, and retinoblastoma protein signalling.3
+
 In this task, a gene expression dataset for glioblastoma was visualized and interpreted to generate a heatmap and downstream functional enrichment analysis was performed. This helped to understand and interpret patterns of gene expression and the biological significance of differentially expressed genes (DEGs). The task involved data preprocessing, visualization, and interpretation of functional enrichment results.
 
-Task 1 - Generate a heatmap for the entire dataset. Use a diverging and sequential color palette to generate two color variants of the same heatmap. 
+**Task 1** - Generate a heatmap for the entire dataset. Use a diverging and sequential color palette to generate two color variants of the same heatmap. 
 
  
 Figure 1. Task 1 output 1 - heatmap with diverging colour palette.
